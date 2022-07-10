@@ -1,1 +1,1 @@
-export const url = 'http://localhost:3001/electric';
+export const url = 'https://gj831cp4wl.execute-api.ap-south-1.amazonaws.com/production/electric';
